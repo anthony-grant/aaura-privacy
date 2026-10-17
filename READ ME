@@ -1,6 +1,6 @@
 # Aaura Privacy Policy
 
-**Last Updated: October 15, 2026**
+**Last Updated: October 17, 2026**
 
 ## Introduction
 
@@ -24,6 +24,17 @@ To keep the circle under your cursor and to recognise a shake, the App reads
 the pointer's position while it is running. Positions are used in the moment
 and are never recorded, saved, or sent anywhere. The App does not read your
 keyboard, your screen contents, or what you click on.
+
+## Calendars and Reminders
+
+If you turn on calendar alarms, the App asks macOS for permission to read
+your calendars and, if you include them, your reminders. It reads them on
+your Mac through Apple's EventKit, which covers every account already added
+to the Calendar app (such as iCloud or Google). The App reads only the
+title, time and alerts of upcoming items, to show them as rings. It never
+signs in to your accounts, never sees your passwords, never changes your
+calendars, and never sends calendar data anywhere. You can turn access off
+at any time in System Settings › Privacy & Security.
 
 ## Local Data Storage
 
